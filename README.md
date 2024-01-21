@@ -1,2 +1,2 @@
 # mp_lcd_bus
-MicroPython LCD bus and memory allocation user C modules
+MicroPython LCD bus user C modules
